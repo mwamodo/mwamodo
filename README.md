@@ -1,4 +1,5 @@
-### Hi there 👋
+### Visitors counter
+![Visitor Count](https://profile-counter.glitch.me/mwamodo/count.svg)
 
 <!--
 **mwamodo/mwamodo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
