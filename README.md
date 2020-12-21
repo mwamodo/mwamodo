@@ -1,5 +1,4 @@
 ## Stats
-[![Mwamodo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mwamodo)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **mwamodo/mwamodo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
